@@ -1,4 +1,5 @@
 ### Hi there 👋
+## Hi! I'm a Brazilian Data Engineer working around the world! <img height="22" src="https://www.countryflags.com/wp-content/uploads/brazil-flag-png-large.png"/> <img height="22" src="https://www.countryflags.com/wp-content/uploads/poland-flag-png-large.png"/> <img height="22" src="https://www.countryflags.com/wp-content/uploads/portugal-flag-400.png"/> <img height="22" src="https://www.countryflags.com/wp-content/uploads/spain-flag-png-large.png"/>
 
 <!--
 **yurigregorio/yurigregorio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
