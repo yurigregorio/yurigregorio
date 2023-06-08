@@ -1,6 +1,6 @@
 ## Hi! I'm a Brazilian Data Engineer! <img height="22" src="https://www.countryflags.com/wp-content/uploads/brazil-flag-png-large.png"/>
 
-<font size="+1">I am a technology-driven data engineer with a passion for Big Data, boasting over two years of experience in the field. Prior to specializing in Big Data, I worked as a FullStack developer, which provided me with a broad understanding of software development. Currently, I am engaged in developing solutions for handling and processing large volumes of data, utilizing tools such as PySpark, Hadoop, Hive, and other Big Data technologies. I am constantly seeking opportunities for growth and continual learning to enhance my technical skills and contribute to innovative solutions for the team and the company.</font><br>
+<font size="+1">I am a technology-driven data engineer with a passion for Big Data, boasting over two years of experience in the field. Prior to specializing in Big Data, I worked as a FullStack developer, which provided me with a broad understanding of software development. Currently, I am engaged in developing solutions for handling and processing large volumes of data, utilizing Big Data technologies.</font><br>
 <font size="+1">I am graduated in Systems Analysis and Development, passionate about technology and programming and I have a data driven and goal oriented culture.</font>
 
 ---
