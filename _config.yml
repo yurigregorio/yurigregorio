@@ -1,0 +1,7 @@
+title: Otacilio P S Filho # your name (or website title) here
+logo: "/attachment/profile.png?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+ <h2>Data Engineer</h2>
+  <a href="https://www.linkedin.com/in/otacilio-psf/" target="_blank"><img height="25" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://github.com/otacilio-psf" target="_blank"><img height="26" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+theme: jekyll-theme-minimal
