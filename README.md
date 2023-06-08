@@ -1,7 +1,7 @@
-## Hi! I'm a Brazilian Data Engineer working around the world! <img height="22" src="https://www.countryflags.com/wp-content/uploads/brazil-flag-png-large.png"/> <img height="22" src="https://www.countryflags.com/wp-content/uploads/poland-flag-png-large.png"/> <img height="22" src="https://www.countryflags.com/wp-content/uploads/portugal-flag-400.png"/> <img height="22" src="https://www.countryflags.com/wp-content/uploads/spain-flag-png-large.png"/>
+## Hi! I'm a Brazilian Data Engineer! <img height="22" src="https://www.countryflags.com/wp-content/uploads/brazil-flag-png-large.png"/>
 
-<font size="+1">Experience with data ingestion and pipelines in Big Data ecosystem on-premises and on-cloud, data lake and lakehouse storage, relational and noSQL databases, development with Python and Spark in object-oriented and functional projects, SQL and Shell, DataBricks and Azure platform.</font><br>
-<font size="+1">I am graduated in Production Engineering, passionate about technology and programming and I have a data driven and goal oriented culture.</font>
+<font size="+1">I am a technology-driven data engineer with a passion for Big Data, boasting over two years of experience in the field. Prior to specializing in Big Data, I worked as a FullStack developer, which provided me with a broad understanding of software development. Currently, I am engaged in developing solutions for handling and processing large volumes of data, utilizing tools such as PySpark, Hadoop, Hive, and other Big Data technologies. I am constantly seeking opportunities for growth and continual learning to enhance my technical skills and contribute to innovative solutions for the team and the company.</font><br>
+<font size="+1">I am graduated in Systems Analysis and Development, passionate about technology and programming and I have a data driven and goal oriented culture.</font>
 
 ---
 
@@ -13,7 +13,7 @@
 
 ---
 
-## Certifications
+## ?
 <div>
  <a href = "https://cursos.alura.com.br/certificate/3a11101a-c2e3-41e3-9313-827cae513382" target="_blank"><img alt="Jenkis" height="95" src="attachment/jenkis.png" target="_blank"></a>
 <br>
@@ -23,6 +23,5 @@
 
 ## Repos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=otacilio-psf&repo=spark-dev-env-docker)](https://github.com/otacilio-psf/spark-dev-env-docker)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yurigregorio&repo=AlphaDev-BackEnd)](https://github.com/yurigregorio/AlphaDev)
 
