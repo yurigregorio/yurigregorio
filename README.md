@@ -16,8 +16,6 @@
 ## Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yurigregorio&layout=compact)
 
-<br>
-
 ## Repos
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yurigregorio&repo=AlphaDev-BackEnd)](https://github.com/yurigregorio/AlphaDev)
