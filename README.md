@@ -13,6 +13,8 @@
 </div>
 <br>
 
+## Professional Experience
+In the overview below, you will find my most recent work experience:
 
 [<img align="left" height="94px" width="94px" alt="Santander Brazil" src="https://media.licdn.com/dms/image/C4D0BAQHfqx4Xz_6RdQ/company-logo_200_200/0/1656471942058?e=1694649600&v=beta&t=C2qQRFOkEWVvs5SG8kwidtQXVdjnSfjqXM3nddZ-zqU"/>](https://www.f1rst.com.br/first/)
 **Data Engineer** \
