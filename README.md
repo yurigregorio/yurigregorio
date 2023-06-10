@@ -13,10 +13,22 @@
 </div>
 <br>
 
-## Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yurigregorio&layout=compact)
 
-## Repos
+[<img align="left" height="94px" width="94px" alt="Santander Brazil" src="https://media.licdn.com/dms/image/C4D0BAQHfqx4Xz_6RdQ/company-logo_200_200/0/1656471942058?e=1694649600&v=beta&t=C2qQRFOkEWVvs5SG8kwidtQXVdjnSfjqXM3nddZ-zqU"/>](https://www.f1rst.com.br/first/)
+**Data Engineer** \
+[**Santander**]((https://www.f1rst.com.br/first/)) • Contract \
+Languages & Technologies: `BigData`, `Python`, `PySpark`, `Hive`, `Linux` \
+Data engineer with expertise in Big Data analysis and a focus on maintaining a reliable data center environment.
+<br/>
+<br/>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yurigregorio&repo=AlphaDev-BackEnd)](https://github.com/yurigregorio/AlphaDev)
+[<img align="left" height="94px" width="94px" alt="BRQ" src="https://media.licdn.com/dms/image/C4D0BAQFMfeQpZ4Jm4A/company-logo_200_200/0/1662140911320?e=1694649600&v=beta&t=GNZ-cyUMG-N9p-tgiEfNANnyaEwROYaLWcnzJDZcM4g"/>](https://www.brq.com/)
+**Software Engineer** \
+[**BRQ**]((https://www.brq.com/)) • Contract \
+Languages & Technologies: `Java`, `Node`, `Docker`, `Maven`, `OpenShift` \
+Experienced Full Stack Developer in Java and Angular.
+<br/>
+<br/>
+
+
 
