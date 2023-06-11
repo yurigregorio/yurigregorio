@@ -14,7 +14,7 @@
 ![Linux](https://img.shields.io/badge/Linux-333333?style=flat&logo=linux&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-333333.svg?style=flat&logo=openjdk&logoColor=blue)
 ![Jenkins](https://img.shields.io/badge/Jenkins-333333.svg?style=flat&logo=jenkins&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-333333.svg?style=flat&logo=angular&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-333333.svg?style=flat&logo=angular&logoColor=blue)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
 
