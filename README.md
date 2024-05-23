@@ -1,4 +1,4 @@
-## Hi! I'm a Brazilian Data Engineer! <img height="22" src="https://www.countryflags.com/wp-content/uploads/brazil-flag-png-large.png"/>
+![image](https://github.com/yurigregorio/yurigregorio/assets/68123182/33ab9011-7e6c-499a-a35b-3705321fc28b)## Hi! I'm a Brazilian Data Engineer! <img height="22" src="https://www.countryflags.com/wp-content/uploads/brazil-flag-png-large.png"/>
 
 
 <font size="+1">I am a technology-driven data engineer with a passion for Big Data, boasting over two years of experience in the field. Prior to specializing in Big Data, I worked as a FullStack developer, which provided me with a broad understanding of software development. Currently, I am engaged in developing solutions for handling and processing large volumes of data, utilizing Big Data technologies.</font><br>
@@ -30,7 +30,8 @@ Data engineer with expertise in Big Data analysis and a focus on maintaining a r
 <br/>
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="BRQ" src="https://media.licdn.com/dms/image/C4D0BAQFMfeQpZ4Jm4A/company-logo_200_200/0/1662140911320?e=1694649600&v=beta&t=GNZ-cyUMG-N9p-tgiEfNANnyaEwROYaLWcnzJDZcM4g"/>](https://www.brq.com/)
+[<img align="left" height="94px" width="94px" alt="BRQ" src="![image](https://github.com/yurigregorio/yurigregorio/assets/68123182/e369b65a-e23d-48ac-ac5b-e2d916944933)
+"/>](https://www.brq.com/)
 **Software Engineer** \
 [**BRQ**]((https://www.brq.com/)) • Contract \
 Languages & Technologies: `Java`, `Node`, `Docker`, `Maven`, `OpenShift` \
