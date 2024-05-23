@@ -22,7 +22,7 @@
 ## Professional Experience
 In the overview below, you will find my most recent work experience:
 
-[<img align="left" height="94px" width="94px" alt="Santander Brazil" src="https://media.licdn.com/dms/image/C4D0BAQHfqx4Xz_6RdQ/company-logo_200_200/0/1656471942058?e=1694649600&v=beta&t=C2qQRFOkEWVvs5SG8kwidtQXVdjnSfjqXM3nddZ-zqU"/>](https://www.f1rst.com.br/first/)
+[<img align="left" height="94px" width="94px" alt="Santander Brazil" src="https://media.licdn.com/dms/image/D4D0BAQG3PEnixOt3Ig/company-logo_200_200/0/1687986449036/f1rstdigitalservices_logo?e=1724284800&v=beta&t=KWSAA_7QYUF8o0RkU5ycuEBFPFsBVRRiwXAU37XOUsE"/>](https://www.f1rst.com.br/first/)
 **Data Engineer** \
 [**Santander**]((https://www.f1rst.com.br/first/)) • Contract \
 Languages & Technologies: `BigData`, `Python`, `PySpark`, `Hive`, `Linux` \
