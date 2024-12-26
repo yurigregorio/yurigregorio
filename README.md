@@ -30,7 +30,7 @@ Data engineer with expertise in Big Data analysis and a focus on maintaining a r
 <br/>
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="BRQ" src="https://media.licdn.com/dms/image/D4D0BAQE7_Z1WtNnoYA/company-logo_200_200/0/1688483327395/brq_logo?e=1724284800&v=beta&t=1mxAjXZ1TjaDBsdSj3BwmUWCPDm8wCwyAuXn1gbv3EA"/>](https://www.brq.com/)
+[<img align="left" height="94px" width="94px" alt="BRQ" src="[https://media.licdn.com/dms/image/D4D0BAQE7_Z1WtNnoYA/company-logo_200_200/0/1688483327395/brq_logo?e=1724284800&v=beta&t=1mxAjXZ1TjaDBsdSj3BwmUWCPDm8wCwyAuXn1gbv3EA](https://media.licdn.com/dms/image/v2/D4D0BAQE7_Z1WtNnoYA/company-logo_100_100/company-logo_100_100/0/1688483327395/brq_logo?e=1743033600&v=beta&t=OwQQS3oXbxRbtOyhy2tkaBRxXRhiaFylu_A5F50kglE)"/>](https://www.brq.com/)
 **Software Engineer** \
 [**BRQ**]((https://www.brq.com/)) • Contract \
 Languages & Technologies: `Java`, `Node`, `Docker`, `Maven`, `OpenShift` \
