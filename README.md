@@ -22,7 +22,6 @@
 ## Professional Experience
 In the overview below, you will find my most recent work experience:
 
-[<img align="left" height="94px" width="94px" alt="Santander Brazil" src="https://media.licdn.com/dms/image/v2/D4D0BAQF3R0DsT8T3OQ/company-logo_100_100/company-logo_100_100/0/1719852758276/f1rstdigitalservices_logo?e=1743033600&v=beta&t=4vTj8kiauDP3djryz-Ab3OFl2Br7sHX-aDrTzrSbzXs"/>](https://www.f1rst.com.br/first/)
 **Data Engineer** \
 [**Santander**]((https://www.f1rst.com.br/first/)) • Contract \
 Languages & Technologies: `BigData`, `Python`, `PySpark`, `Hive`, `Linux` \
@@ -30,7 +29,6 @@ Data engineer with expertise in Big Data analysis and a focus on maintaining a r
 <br/>
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="BRQ" src="https://media.licdn.com/dms/image/v2/D4D0BAQE7_Z1WtNnoYA/company-logo_100_100/company-logo_100_100/0/1688483327395/brq_logo?e=1743033600&v=beta&t=OwQQS3oXbxRbtOyhy2tkaBRxXRhiaFylu_A5F50kglE"/>](https://www.brq.com/)
 **Software Engineer** \
 [**BRQ**]((https://www.brq.com/)) • Contract \
 Languages & Technologies: `Java`, `Node`, `Docker`, `Maven`, `OpenShift` \
