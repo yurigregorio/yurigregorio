@@ -19,22 +19,3 @@
 
 
 
-## Professional Experience
-In the overview below, you will find my most recent work experience:
-
-**Data Engineer** \
-[**Santander**]((https://www.f1rst.com.br/first/)) • Contract \
-Languages & Technologies: `BigData`, `Python`, `PySpark`, `Hive`, `Linux` \
-Data engineer with expertise in Big Data analysis and a focus on maintaining a reliable data center environment.
-<br/>
-<br/>
-
-**Software Engineer** \
-[**BRQ**]((https://www.brq.com/)) • Contract \
-Languages & Technologies: `Java`, `Node`, `Docker`, `Maven`, `OpenShift` \
-Experienced Full Stack Developer in Java and Angular.
-<br/>
-<br/>
-
-
-
