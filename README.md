@@ -2,7 +2,7 @@
 
 
 <font size="+1">I am a technology-driven data engineer with a passion for Big Data, boasting over two years of experience in the field. Prior to specializing in Big Data, I worked as a FullStack developer, which provided me with a broad understanding of software development. Currently, I am engaged in developing solutions for handling and processing large volumes of data, utilizing Big Data technologies.</font><br>
-<font size="+1">I am graduated in Systems Analysis and Development, passionate about technology and programming and I have a data driven and goal oriented culture.</font>
+<font size="+1">I am graduated in Systems Analysis and Development, passionate about technology and programming and I have a data drivenand goal oriented culture.</font>
 <br>
 
 ## Skills
